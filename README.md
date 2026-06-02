@@ -1,2 +1,3 @@
-# e-commerce-ui-kit
-Design mockups and token spec for home, catalog, product card
+IyBFLWNvbW1lcmNlIFVJIEtpdA0KClRoaXMgaXMgYSBkaXN0YW5jZSBjb3Vyc2UgcHJvdmlkZWQgd2l0aCBtYWNr
+dXAgZm9yIHRoZSBob21lLCBjYXRhbG9nIGFuZCBwcm9kdWN0IGNhcmQuDQpGZWF0dXJlOiBbRmxvYmFs
+IEdpdEh1YnwgUGFnZSBXZWJzaXRlXVsiCm5ibHB6b2JlcnQtYWVk
